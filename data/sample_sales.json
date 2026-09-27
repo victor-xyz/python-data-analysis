@@ -1,0 +1,12 @@
+[
+  {"date":"2026-01-05","region":"South","product":"Laptop","units":3,"unit_price":450000},
+  {"date":"2026-01-07","region":"South","product":"Monitor","units":6,"unit_price":120000},
+  {"date":"2026-01-10","region":"West","product":"Laptop","units":2,"unit_price":450000},
+  {"date":"2026-01-12","region":"North","product":"Keyboard","units":12,"unit_price":25000},
+  {"date":"2026-01-15","region":"West","product":"Monitor","units":4,"unit_price":120000},
+  {"date":"2026-01-18","region":"South","product":"Keyboard","units":10,"unit_price":25000},
+  {"date":"2026-02-03","region":"North","product":"Laptop","units":1,"unit_price":450000},
+  {"date":"2026-02-06","region":"West","product":"Keyboard","units":15,"unit_price":25000},
+  {"date":"2026-02-09","region":"South","product":"Monitor","units":5,"unit_price":120000},
+  {"date":"2026-02-14","region":"North","product":"Monitor","units":3,"unit_price":120000}
+]
